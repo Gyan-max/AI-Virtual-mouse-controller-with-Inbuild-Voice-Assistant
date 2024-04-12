@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Team(105) Project Contributors</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #ef3131;
+      background-image: linear-gradient(to right bottom, #005c97, #363795);
+      color: #c82c2c;
+    }
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: rgba(189, 181, 240, 0.8);
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+    .contributor {
+      margin-bottom: 20px;
+    }
+    .contributor h2 {
+      margin-bottom: 5px;
+      font-size: 24px;
+    }
+    .contributor p {
+      margin-top: 5px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Team(105) Project Contributors</h1>
+    <div class="contributors">
+      <div class="contributor">
+        <h2>Team Member: Gyan Ranjan </h2>
+        <p>Roll No: 2312RES274 </p>
+        <p>Contribution: </p>
+      </div>
+      <div class="contributor">
+        <h2>Team Member: Aniruddha Sharma</h2>
+        <p>Roll no: 2312RES905</p>
+        <p>Contribution: </p>
+      </div>
+      <div class="contributor">
+        <h2>Team Member: Md Raihan Ahmad</h2>
+        <p>Roll No: 2312RES382</p>
+        <p>Contribution: </p>
+      </div>
+      <div class="contributor">
+        <h2>Team Member: Sania Rahaman</h2>
+        <p>Roll No: 2312RES574</p>
+        <p>Contribution: </p>
+      </div>
+      <div class="contributor">
+        <h2>Team Member Ashutosh Singh</h2>
+        <p>Roll No: 2312RES927</p>
+        <p>Contribution: </p>
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    
+  </script>
+</body>
+</html>
